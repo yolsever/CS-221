@@ -1,0 +1,6598 @@
+H*HHHHHHHHHHHHHHHHHHH
+H H         H       H
+H H HHHHHHH HHHHH H H
+H   H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H         H       H
+H H HHHHHHH HHHHH H H
+H   H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H         H       H
+H*H HHHHHHH HHHHH H H
+H   H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H         H       H
+H*H HHHHHHH HHHHH H H
+H*  H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H         H       H
+H*H HHHHHHH HHHHH H H
+H** H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H         H       H
+H*H HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H         H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*        H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H**       H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H***      H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H****     H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*****    H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H******   H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*******  H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H******** H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H     H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*    H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H**   H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H***  H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H**** H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H   H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H  *H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H **H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H H   H
+H H H HHH H H H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H H   H
+H H H HHH H H*H H H H
+H H   H   H H   H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H H   H
+H H H HHH H H*H H H H
+H H   H   H H*  H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H H   H
+H H H HHH H H*H H H H
+H H   H   H H** H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H H   H
+H H H HHH H H*H H H H
+H H   H   H H***H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H H   H
+H H H HHH H H*H*H H H
+H H   H   H H***H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H*H   H
+H H H HHH H H*H*H H H
+H H   H   H H***H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H:H   H
+H H H HHH H H*H*H H H
+H H   H   H H***H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H:H   H
+H H H HHH H H*H:H H H
+H H   H   H H***H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H:H   H
+H H H HHH H H*H:H H H
+H H   H   H H**:H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H:H   H
+H H H HHH H H*H:H H H
+H H   H   H H*::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H:H   H
+H H H HHH H H*H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H*H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H*HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H***H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H:**H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H::*H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH*H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*****H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H****:H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H***::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H**:::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H*::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH*HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*********H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H********:H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*******::H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H******:::H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*****::::H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H****:::::H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H***::::::H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H**:::::::H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H*::::::::H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H*HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H***H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H**:H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H   H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H*  H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H** H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H   H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H*  H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H** H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H*H   H H H H   H
+H HHH HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H*H   H H H H   H
+H HHH*HHHHH HHH HHH H
+H     H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H*H   H H H H   H
+H HHH*HHHHH HHH HHH H
+H    *H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H*H   H H H H   H
+H HHH*HHHHH HHH HHH H
+H   **H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H*H   H H H H   H
+H HHH*HHHHH HHH HHH H
+H  ***H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H*H   H H H H   H
+H HHH*HHHHH HHH HHH H
+H ****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H*H   H H H H   H
+H HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H   H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H HHH*H H H H H H H H
+H*  H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H H***H H   H   H H H
+H*HHH*H H H H H H H H
+H*  H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H*H***H H   H   H H H
+H*HHH*H H H H H H H H
+H*  H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H*HHH*H H H H H H H H
+H*  H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H*  H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H** H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H***H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H**:H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H*::H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H*HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH H HHH H HHHHH
+H       H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH H HHH H HHHHH
+H*      H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH H HHH H HHHHH
+H**     H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH H HHH H HHHHH
+H***    H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH H HHH H HHHHH
+H****   H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH H HHH H HHHHH
+H*****  H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH H HHH H HHHHH
+H****** H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH H HHH H HHHHH
+H*******H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H   H   H     H
+H*HHHHH*H HHH H HHHHH
+H*******H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H*  H   H     H
+H*HHHHH*H HHH H HHHHH
+H*******H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H** H   H     H
+H*HHHHH*H HHH H HHHHH
+H*******H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H   H     H
+H*HHHHH*H HHH H HHHHH
+H*******H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H   H     H
+H*HHHHH*H*HHH H HHHHH
+H*******H     H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H   H     H
+H*HHHHH*H*HHH H HHHHH
+H*******H*    H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H   H     H
+H*HHHHH*H*HHH H HHHHH
+H*******H**   H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H   H     H
+H*HHHHH*H*HHH H HHHHH
+H*******H***  H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H   H     H
+H*HHHHH*H*HHH H HHHHH
+H*******H**** H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H   H     H
+H*HHHHH*H*HHH H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H   H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H  *H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H **H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H H H H H H
+H:::H*H   H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H   H   H H H
+H:HHH*H H H*H H H H H
+H:::H*H   H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H  *H   H H H
+H:HHH*H H H*H H H H H
+H:::H*H   H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H **H   H H H
+H:HHH*H H H*H H H H H
+H:::H*H   H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H***H   H H H
+H:HHH*H H H*H H H H H
+H:::H*H   H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H***H   H H H
+H:HHH*H H*H*H H H H H
+H:::H*H   H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H***H   H H H
+H:HHH*H H*H*H H H H H
+H:::H*H  *H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H***H   H H H
+H:HHH*H H*H*H H H H H
+H:::H*H **H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H***H   H H H
+H:HHH*H H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H   H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H*  H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H** H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H   H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H  *H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H **H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H     H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H*    H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H**   H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH HHHHH:H H H
+H*H   H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H     H:::::H H H
+H*HHH HHH*HHHHH:H H H
+H*H   H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H    *H:::::H H H
+H*HHH HHH*HHHHH:H H H
+H*H   H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H   **H:::::H H H
+H*HHH HHH*HHHHH:H H H
+H*H   H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H  ***H:::::H H H
+H*HHH HHH*HHHHH:H H H
+H*H   H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H ****H:::::H H H
+H*HHH HHH*HHHHH:H H H
+H*H   H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH HHH*HHHHH:H H H
+H*H   H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H   H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H  *H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H **H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H H***H H:H:H   H
+H*H H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H H***H H:H:H   H
+H*H*H HHH*H H:H:H H H
+H*H   H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H H***H H:H:H   H
+H*H*H HHH*H H:H:H H H
+H*H*  H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H H***H H:H:H   H
+H*H*H HHH*H H:H:H H H
+H*H** H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H H***H H:H:H   H
+H*H*H HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H H***H H:H:H   H
+H*H*H*HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H*H***H H:H:H   H
+H*H*H*HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H*HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H:HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H:HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH*H*HHH HHHHHHH H
+H***H H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H:HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH*H*HHH HHHHHHH H
+H***H*H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H:HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH*H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H:HHH*H H:H:H H H
+H*H***H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H:HHH*H H:H:H H H
+H*H**:H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H:HHH*H H:H:H H H
+H*H*::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H*H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H*H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H*HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H***H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H:**H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H::*H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH*HHH*HHHHH:H H H
+H*H:::H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H*****H:::::H H H
+H*HHH:HHH*HHHHH:H H H
+H*H:::H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:****H:::::H H H
+H*HHH:HHH*HHHHH:H H H
+H*H:::H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H::***H:::::H H H
+H*HHH:HHH*HHHHH:H H H
+H*H:::H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::**H:::::H H H
+H*HHH:HHH*HHHHH:H H H
+H*H:::H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H::::*H:::::H H H
+H*HHH:HHH*HHHHH:H H H
+H*H:::H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH*HHHHH:H H H
+H*H:::H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H***  H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H**** H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H         H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H  *      H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H **      H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H***      H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H:**      H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*      H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::**     H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::***    H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::****   H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*****  H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::****** H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H H
+H:H***H*H***H   H H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H H
+H:H***H*H***H   H*H H
+H:HHH*H*H*H*H H H H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H H
+H:H***H*H***H   H*H H
+H:HHH*H*H*H*H H H*H H
+H:::H*H***H*H H H   H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H H
+H:H***H*H***H   H*H H
+H:HHH*H*H*H*H H H*H H
+H:::H*H***H*H H H*  H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H H
+H:H***H*H***H   H*H H
+H:HHH*H*H*H*H H H*H H
+H:::H*H***H*H H H** H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H H
+H:H***H*H***H   H*H H
+H:HHH*H*H*H*H H H*H H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H H
+H:H***H*H***H   H*H H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H   H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H  *H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H **H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H       H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H    *  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H   **  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H  ***  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H ****  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H*****  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:****  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::***  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::**  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::*  H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::** H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H*H
+H*::H:::::H:::::H*H H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H*H
+H*::H:::::H:::::H*H*H
+H*HHH:HHH:HHHHH:H*H H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H*H
+H*::H:::::H:::::H*H*H
+H*HHH:HHH:HHHHH:H*H*H
+H*H:::H*****H:::H*H H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H*H
+H*::H:::::H:::::H*H*H
+H*HHH:HHH:HHHHH:H*H*H
+H*H:::H*****H:::H*H*H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H*H
+H*::H:::::H:::::H*H*H
+H*HHH:HHH:HHHHH:H*H*H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H*H
+H*::H:::::H:::::H*H*H
+H*HHH:HHH:HHHHH:H*H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H*H
+H*::H:::::H:::::H*H:H
+H*HHH:HHH:HHHHH:H*H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::***H
+H*H:HHHHHHH:HHHHH*H:H
+H*::H:::::H:::::H*H:H
+H*HHH:HHH:HHHHH:H*H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::**:H
+H*H:HHHHHHH:HHHHH*H:H
+H*::H:::::H:::::H*H:H
+H*HHH:HHH:HHHHH:H*H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H::::*::H
+H*H:HHHHHHH:HHHHH*H:H
+H*::H:::::H:::::H*H:H
+H*HHH:HHH:HHHHH:H*H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH*H:H
+H*::H:::::H:::::H*H:H
+H*HHH:HHH:HHHHH:H*H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H*H:H
+H*HHH:HHH:HHHHH:H*H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H*H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H*H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH*HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H*H*H
+H*H:::H***H*H:::H H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H*H*H
+H*H:::H***H*H:::H*H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H*H*H
+H*H:::H***H*H:::H:H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H***H
+H*H:H:HHH*H*H:H:H:H*H
+H*H:::H***H*H:::H:H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:**H
+H*H:H:HHH*H*H:H:H:H*H
+H*H:::H***H*H:::H:H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H::*H
+H*H:H:HHH*H*H:H:H:H*H
+H*H:::H***H*H:::H:H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H*H
+H*H:::H***H*H:::H:H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H*H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH*H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H*H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H*H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H*H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H*H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH*H
+H*****H***H***H     H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH*H
+H*****H***H***H    *H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH*H
+H*****H***H***H   **H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH*H
+H*****H***H***H  ***H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH*H
+H*****H***H***H ****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H H*H:H
+H:::H*H***H*H H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H   H*H:H
+H:HHH*H*H*H*H H*H*H:H
+H:::H*H***H*H H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H  *H*H:H
+H:HHH*H*H*H*H H*H*H:H
+H:::H*H***H*H H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H **H*H:H
+H:HHH*H*H*H*H H*H*H:H
+H:::H*H***H*H H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H***H*H:H
+H:HHH*H*H*H*H H*H*H:H
+H:::H*H***H*H H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H***H*H:H
+H:HHH*H*H*H*H*H*H*H:H
+H:::H*H***H*H H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H***H*H:H
+H:HHH*H*H*H*H*H*H*H:H
+H:::H*H***H*H*H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H***H*H:H
+H:HHH*H*H*H*H*H*H*H:H
+H:::H*H***H*H:H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H***H*H:H
+H:HHH*H*H*H*H:H*H*H:H
+H:::H*H***H*H:H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:**H*H:H
+H:HHH*H*H*H*H:H*H*H:H
+H:::H*H***H*H:H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H::*H*H:H
+H:HHH*H*H*H*H:H*H*H:H
+H:::H*H***H*H:H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H*H*H:H
+H:::H*H***H*H:H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H*H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH*HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH:HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH:HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H*HHHHH
+H*******H*****H     H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH:HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H*HHHHH
+H*******H*****H*    H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH:HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H*HHHHH
+H*******H*****H**   H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH:HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H*HHHHH
+H*******H*****H***  H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH:HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H*HHHHH
+H*******H*****H**** H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH:HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H*HHHHH
+H*******H*****H*****H
+HHHHHHHHHHHHHHHHHHH H
+
+H*HHHHHHHHHHHHHHHHHHH
+H*H:::::::::H:::::::H
+H*H:HHHHHHH:HHHHH:H:H
+H*::H:::::H:::::H:H:H
+H*HHH:HHH:HHHHH:H:H:H
+H*H:::H*****H:::H:H:H
+H*H:HHH*HHH*H:HHH:HHH
+H*H:H:H***H*H:H:H:::H
+H*H:H:HHH*H*H:H:H:H:H
+H*H:::H***H*H:::H:H:H
+H*HHH:H*HHH*HHHHHHH:H
+H***H:H*H::*******H:H
+HHH*HHH*HHHHHHHHH*H:H
+H:H***H*H***H:::H*H:H
+H:HHH*H*H*H*H:H:H*H:H
+H:::H*H***H*H:H:H***H
+H:HHH*HHHHH*HHH:HHH*H
+H*****H***H***H*****H
+H*HHHHH*H*HHH*H*HHHHH
+H*******H*****H*****H
+HHHHHHHHHHHHHHHHHHH*H
+
+Maze solved
+row:20, col:19
+row:19, col:19
+row:19, col:18
+row:19, col:17
+row:19, col:16
+row:19, col:15
+row:18, col:15
+row:17, col:15
+row:17, col:16
+row:17, col:17
+row:17, col:18
+row:17, col:19
+row:16, col:19
+row:15, col:19
+row:15, col:18
+row:15, col:17
+row:14, col:17
+row:13, col:17
+row:12, col:17
+row:11, col:17
+row:11, col:16
+row:11, col:15
+row:11, col:14
+row:11, col:13
+row:11, col:12
+row:11, col:11
+row:10, col:11
+row:9, col:11
+row:8, col:11
+row:7, col:11
+row:6, col:11
+row:5, col:11
+row:5, col:10
+row:5, col:9
+row:5, col:8
+row:5, col:7
+row:6, col:7
+row:7, col:7
+row:7, col:8
+row:7, col:9
+row:8, col:9
+row:9, col:9
+row:9, col:8
+row:9, col:7
+row:10, col:7
+row:11, col:7
+row:12, col:7
+row:13, col:7
+row:14, col:7
+row:15, col:7
+row:15, col:8
+row:15, col:9
+row:14, col:9
+row:13, col:9
+row:13, col:10
+row:13, col:11
+row:14, col:11
+row:15, col:11
+row:16, col:11
+row:17, col:11
+row:17, col:12
+row:17, col:13
+row:18, col:13
+row:19, col:13
+row:19, col:12
+row:19, col:11
+row:19, col:10
+row:19, col:9
+row:18, col:9
+row:17, col:9
+row:17, col:8
+row:17, col:7
+row:18, col:7
+row:19, col:7
+row:19, col:6
+row:19, col:5
+row:19, col:4
+row:19, col:3
+row:19, col:2
+row:19, col:1
+row:18, col:1
+row:17, col:1
+row:17, col:2
+row:17, col:3
+row:17, col:4
+row:17, col:5
+row:16, col:5
+row:15, col:5
+row:14, col:5
+row:13, col:5
+row:13, col:4
+row:13, col:3
+row:12, col:3
+row:11, col:3
+row:11, col:2
+row:11, col:1
+row:10, col:1
+row:9, col:1
+row:8, col:1
+row:7, col:1
+row:6, col:1
+row:5, col:1
+row:4, col:1
+row:3, col:1
+row:2, col:1
+row:1, col:1
+row:0, col:1
